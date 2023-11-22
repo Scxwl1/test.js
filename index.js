@@ -19,3 +19,8 @@ function capitalize(string, index) {
         return string;
     }
 }
+
+export { getSum }
+export { getSmallestNumber }
+export { castBoolean }
+export { capitalize }
